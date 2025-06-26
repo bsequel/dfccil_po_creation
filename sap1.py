@@ -1,0 +1,6 @@
+sap_managerial_sub_position = [{'name':'SAP - Delivery Head','numbers':1},{'name':'SAP - Project Manager','numbers':1},{'name':'SAP - Project Coordinator','numbers':2}]
+
+sap_sub_position = [{'name':'SAP - HCM Consultant','numbers':1},{'name':'SAP- EP Consultant','numbers':1},{'name':'SAP ABAP Consultant','numbers':1},{'name':'SAP MM Consultant','numbers':1},{'name':'Sr. SAP - HCM','numbers':1},{'name':'Sr. SAP- EP Consultant','numbers':1},{'name':'Sr. SAP - FICO Consultant','numbers':1},{'name':'Sr. SAP - ABAP Consultant','numbers':1},{'name':'Sr. SAP - BASIS Consultant','numbers':1},{'name':'Sr. SAP SD Consultant','numbers':1},{'name':'Sr. SAP PS Consultant','numbers':1},{'name':'Sr. SAP - MM Consultant','numbers':1},{'name':'SAP -SD Team Lead','numbers':1},{'name':'SAP - Team Lead (FICO)','numbers':2},{'name':'SAP - Team Lead (HCM)','numbers':2},{'name':'SAP - Team Lead (PS/MM)','numbers':1},{'name':'SAP - Team Lead (EP)','numbers':2},{'name':'SAP - Team Lead (ABAP)','numbers':1}]
+
+data = { "SAP Managerial Positions 1" : sap_managerial_sub_position,"SAP Positions 2":sap_sub_position}
+data_keys = list(data.keys())  

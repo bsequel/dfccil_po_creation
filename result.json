@@ -1,0 +1,1652 @@
+{
+    "context": {
+        "timestamp": "2025-06-04T08:43:07.638Z",
+        "transaction_id": "a5146444-6fe8-4bf5-aa3f-acd04dc98ff2"
+    },
+    "message": {
+        "pageCount": 25,
+        "results": [
+            {
+                "page": 1,
+                "tables": [
+                    {
+                        "rowCount": 17,
+                        "columnCount": 3,
+                        "headerGroups": [
+                            "",
+                            "e-Stamp : IN-DL74611363596758V\n\u20b9100\u20b9100*1007100\nSMART GOVERNMENT",
+                            "e-Stamp : IN-DL74611363596758V\n\u20b9100\u20b9100*1007100\nSMART GOVERNMENT"
+                        ],
+                        "rowGroups": [
+                            [
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "Certificate No.",
+                                null,
+                                null
+                            ],
+                            [
+                                "Certificate Issued Date",
+                                "13-Mar-2023 11:48 AM",
+                                "FOR"
+                            ],
+                            [
+                                "Account Reference",
+                                "IMPACC (IV)/ dl942203/ DELHI/ DL-DLH",
+                                ""
+                            ],
+                            [
+                                "Unique Doc. Reference",
+                                ": SUBIN-DLDL94220321205392751507V",
+                                "INSTITUTE"
+                            ],
+                            [
+                                "Purchased by",
+                                ": National Institute for Smart Government",
+                                "NATIONAL"
+                            ],
+                            [
+                                "Description of Document",
+                                ": Article 5 General Agreement",
+                                ""
+                            ],
+                            [
+                                "Property Description",
+                                ": Not Applicable",
+                                ""
+                            ],
+                            [
+                                "Consideration Price (Rs.)",
+                                ": 0 (Zero)",
+                                "GOVERNMENT"
+                            ],
+                            [
+                                "First Party",
+                                "Dedicated Freight Corridor Corporation of India Limited",
+                                "SMART"
+                            ],
+                            [
+                                "Second Party",
+                                ": National Institute for Smart Government",
+                                "FOR"
+                            ],
+                            [
+                                "Stamp Duty Paid By",
+                                "National Institute for Smart Government",
+                                "INSTITUTE"
+                            ],
+                            [
+                                "Stamp Duty Amount(Rs.)",
+                                "100 (One Hundred only)",
+                                "INSTITUTE FOR SMART GOVERNMENT NATIONAL"
+                            ],
+                            [
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "\u00a3",
+                                "",
+                                "SMART GOVERNMENT NATIONAL"
+                            ],
+                            [
+                                null,
+                                null,
+                                null
+                            ]
+                        ],
+                        "matchingColumn": [],
+                        "matchingRow": []
+                    }
+                ],
+                "paragraphs": "                                                                                                                                                     INDIA NON JUDICIAL\n                                                               Government of National Capital Territory of Delhi\n                                                    \u0938\u0924\u094d\u092f\u092e\u0947\u0935 \u091c\u092f\u0924\u0947\n                                                                                                                                                                                                                                                                                             \u20b9100\n                                                                                                  Please write or type below this line 4611383596758V\nAgreement between Dedicated Freight Corridor Corporation of India Ltd. (DFCCIL) and National Institute for Smart Government (NISG) for Manpower Augmentation (SAP Resource(s)) to DFCCIL for 03 Years\n                                                                                                                                                                                                                                                             6 day of June\nThis agreement (hereinafter referred to as \"Agreement\") is made on this\n           2023 (hereinafter referred to as \"Effective Date\")\n                                                                                                                                                                                                                   itute for Smart G St\n                                                                                                                                                                                                               10 National Institute\n                                                         Ajay Singh\n                                                                                                                                                                                                                                                                                                  1\n                                                                                                                                                                                                                                                                    Vernment\n                                                                                                                                                             Page 1 of 25\n                                                                                                    1./DE\n                                                                                                                                                                                                                                                     *\n1 Miawastyof this-Stamp certificate should be verified at 'www. shcilestamp.com' or using e-Stamp Mobile App of Stock Holding. Ala pisc ananny in the details on this Certificate and as available on the website / Mobile App renders it invalid. :' checking the legitimacy is on the users of the certificate. B >>>> \" de discrepancy please inform the Competent Authority\n\n               \n                \n                       |  e-Stamp : IN-DL74611363596758V\n\u20b9100\u20b9100*1007100\nSMART GOVERNMENT| \n   Certificate No.| \n   Certificate Issued Date|  13-Mar-2023 11:48 AM|  FOR| \n   Account Reference|  IMPACC (IV)/ dl942203/ DELHI/ DL-DLH|  | \n   Unique Doc. Reference|  : SUBIN-DLDL94220321205392751507V|  INSTITUTE| \n   Purchased by|  : National Institute for Smart Government|  NATIONAL| \n   Description of Document|  : Article 5 General Agreement|  | \n   Property Description|  : Not Applicable|  | \n   Consideration Price (Rs.)|  : 0 (Zero)|  GOVERNMENT| \n   First Party|  Dedicated Freight Corridor Corporation of India Limited|  SMART| \n   Second Party|  : National Institute for Smart Government|  FOR| \n   Stamp Duty Paid By|  National Institute for Smart Government|  INSTITUTE| \n   Stamp Duty Amount(Rs.)|  100 (One Hundred only)|  INSTITUTE FOR SMART GOVERNMENT NATIONAL| \n   \u00a3|  |  SMART GOVERNMENT NATIONAL| \n  \n                \n             ",
+                "fields": {
+                    "scopeOfWork": [
+                        {
+                            "group": "SMART GOVERNMENT",
+                            "serialnumber": "1",
+                            "post": "SAP Resource(s)",
+                            "experienceYears": "3",
+                            "numberOfResources": "1"
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 2,
+                "tables": [],
+                "paragraphs": "                                                                                                                                                                      BETWEEN\nDedicated Freight Corridor Corporation of India Limited, a Govt. of India Enterprise under Ministry of Railways and a company registered under the Companies Act, 1956 having its registered office at 5th Floor, Supreme Court Metro Station Building Complex, New Delhi- 110001 (herein referred to as \"DFCCIL\") which expression hereof includes its successors, administrators, and assigns), through its authorized signatory Mr. Ajay Singh, AGM/IT, who is duly authorized to sign and execute this Agreement, known as First Party.\n                                                                                                                                                                                  AND\nNational Institute for Smart Government (NISG), a company registered under Section 8 of the Companies Act 2013 (incorporated under Section 25 of the Companies Act 1956), having its Registered Office at Ground & 2nd Floor, TSIIC Zonal Office, Financial District, Nanakramguda, Gachibowli, Hyderabad, Telangana, India - 500032, (hereinafter referred to as \"NISG\", which expression hereof includes its successors, administrators, and assigns), through its authorized signatory, Mr. Ashish Bhatnagar, Vice President, who is duly authorized to sign and execute this Agreement, known as Second Party.\nBoth DFCCIL and NISG are hereinafter collectively referred to as \"Parties\" and individually as \"Party.\"\n                                                    WITNESSETH:\na. WHEREAS the DFCCIL has accepted the proposal \"NISGDEL/BHR/ 14022023/3 prepared by the NISG submitted by e-mail dated 14th of February 2023, based on the requirements provided by the DFCCIL and is keen to provide Manpower Augmentation Services for the SAP Professionals to the DFCCIL for a period of three (03) years.\nb. WHEREAS the DFCCIL is desirous of engaging the NISG for providing the Manpower Services (SAP-Professionals) (hereinafter called \"Services\" as described in Clause 3 of this Agreement).\nc. WHEREAS the DFCCIL believes that the NISG possesses the required professional skills, personnel, and Resource(s)s to provide the services.\nd. WHEREAS the DFCCIL has issued Purchase Order vide letter no. 'HQ-ITOSAP/1/2023' dated 01-March-2023 awarding the work to the NISG.\n                     e. WHEREAS NISG has agreed to render such Services.\n                                                                                                                                                                                                                                          National Institute\n                                                                                                                                                                                                                                                                             Smart G\n                                                                                                                                                               Page 2 of 25\n                                                      Ajay Singh                                                                                                                                                                                                                           vernment\n                                                                                                                                                                                                                                                                             *\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": []
+                }
+            },
+            {
+                "page": 3,
+                "tables": [],
+                "paragraphs": "NOW THEREFORE BOTH THE PARTIES DO HEREBY AGREE AND AFFIRM HERE AS UNDER:\n                                                                1 Definitions:\n1.1 \"Agreement\" shall mean this Agreement together with all its appendices and annexures and any amendments thereto made in accordance with the provisions herein.\n1.2 \"Confidential Information\" shall have a meaning as ascribed in Clause 7 of this Agreement.\n1.3 \"Effective Date\" shall mean the date on which the parties sign this Agreement.\n1.4 \"Force Majeure\" for the purpose of this Agreement, 'Force Majeure' shall mean an event that is unforeseeable, beyond the control of the Parties and not involving the Parties' fault or negligence. Such events may include acts of the Government/ Government of India in its sovereign capacity, war, civil war, insurrection, riots, revolutions, fire, floods, epidemics, pandemics, quarantine, restrictions, freight, embargoes, radioactivity, earthquakes, or any other act of God.\n1.5 \"LoA/Purchase Order\" shall refer to the letter of acceptance awarded to the NISG by DFCCIL vide letter no. 'vide letter no. 'HQ-ITOSAP/1/2023' dated 01-March-2023.\n                                  1.6 \"Month\" shall mean English calendar month.\n             1.7 \"Project\" shall mean talent acquisition and management services.\n1.8 \"Proposal\" shall mean the proposal submitted by NISG vide e-mail dated NISGDEL/BHR/ 14022023/3 prepared by the NISG submitted by e-mail dated 14th of February 2023 accepted by DFCCIL vide letter of acceptance no. HQ-ITOSAP/1/2023' dated 01-March-2023-DFCCIL\n1.9 \"Resource(s)(s)\" shall mean the personnel deployed by the NISG under this Agreement, in accordance with Annexure I of this Agreement.\n1.10 \"Resource(s) Base Location\" shall refer to and mean such location where Resource(s)s have been deployed as provided in Annexure I of this Agreement.\n1.11 \"Services\" shall mean the services to be provided by NISG as mentioned in Clause 3 of this Agreement.\n     1.12 \"Term\" shall have a meaning as ascribed in Clause 2 of this Agreement.\n                                                                                                                                                                                               for National InSingle Smart Government *\n                                                                     Ajay Singh\n                                                                                                                                                            Page 3 of 25\n                                                                                350.V.a. /DFCC\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": []
+                }
+            },
+            {
+                "page": 4,
+                "tables": [],
+                "paragraphs": "                                                                           Term:\n                                                                  2\n2.1 This Agreement shall be valid for a period of three (03) years from the effective date further extendable as mutually discussed with DFCCIL.\n2.2 Unless extended based on mutually agreed terms and conditions between the Parties, this Agreement shall stand expired at the end of the Term.\n                                      3 Scope of Work (\"Services\"):\n3.1 The DFCCIL hereby appoints and engages NISG for carrying out the Services as detailed in Annexure I of this Agreement and NISG shall accordingly perform such Services.\n3.2 The actual deployment of Resource(s)(s) will be based on and pursuant to the written requirement(s) issued by the DFCCIL which shall include (but not be limited to) the profile, qualifications, annual CTC, number, and role of Resource(s)(s) to be deployed.\n3.3 Primary mode of communication between DFCCIL and NISG shall be through email, unless otherwise agreed mutually. Similarly, primary mode of document sharing including deliverables shall be in soft copy, unless otherwise agreed mutually.\n                                                4 Terms of Payment:\n4.1 In consideration of the Services and subject to the provisions of this Agreement, DFCCIL will pay the NISG an amount (hereinafter referred to as \"Project Cost\") for the Services rendered under this Agreement.\n4.2 The DFCCIL shall pay the NISG as per the Payment Terms provided in Annexure II of this Agreement.\n                                       5 Role and Responsibilities:\nThe roles and responsibilities of the DFCCIL and NISG is provided in Annexure I\n                                                   6 Force Majeure:\n6.1 NISG shall not be liable if the delay in the discharge of its obligations under this Agreement is the result of an event of Force Majeure as defined in Clause 1 of this Agreement. Unless otherwise directed by DFCCIL in writing, NISG shall continue to perform its obligations under this Agreement, as far as it is reasonably practical.\n6.2 The failure of a Party to fulfil any of its obligations hereunder shall not be considered to be a breach or default under this Agreement in so far as such\n                                                                                                                                                                Page 4 of 25\n                                                                                                                                                                                                                                        stitute14\n                                                                                                                                                                                                                                                    smart\n                                                                 Ajay Singh -                                                                                                                                      National Instit\n                                                                                                                                                                                                                                                       rt Government\n                                                                                                          R./DEC\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": [
+                        {
+                            "group": "NISG for Services",
+                            "serialnumber": "1",
+                            "post": "Resource(s)",
+                            "experienceYears": null,
+                            "numberOfResources": null
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 5,
+                "tables": [],
+                "paragraphs": "inability arises from an event of Force Majeure, provided that the Party affected by such an event has taken all reasonable precautions due care and reasonable alternative measures all with the objective of carrying out the terms and conditions of this Agreement.\n                               6.3 Measures to be taken in case of Force Majeure:\ni. A Party affected by an event of Force Majeure shall take all reasonable measures to remove such Party's inability to fulfil its obligations hereunder with a minimum of delay.\nii. A Party affected by an event of Force Majeure shall notify the other Party in writing of such event as soon as possible, and in any event not later than five (5) days following the occurrence of such event, providing evidence of the nature and cause of such event, and shall similarly give notice of the restoration of normal conditions as soon as possible.\n                                               7 Confidentiality:\n7.1 Each Party acknowledges that in the course of the performance of this Agreement it may be provided or otherwise be given access to information, whether orally, visually, or in tangible form, that is proprietary and confidential to the other Party (\"Confidential Information\"). Such information can include any business, technical or financial information, all correspondence and documentation etc. exchanged between the Parties in relation to the Services as under this Agreement and disclosed only to their respective officers or members on a need-to-know basis.\n7.2 The Party receiving such information (\"Receiving Party\") from the other Party shall not use such information other than to perform its obligations hereunder and shall take all reasonable measures to safeguard such information and prevent its unauthorized disclosure to any third party in the same manner as it would safeguard its own information of a similar kind.\n7.3 Either Party shall not be liable for breach of confidentiality with respect to such information that is already available in the public domain, prior to entering into this Agreement, and for such information that has entered into the domain due to no fault or negligence on the part of either Party.\n7.4 Confidential Information excludes any such information which is lawfully acquired by Receiving Party without the confidentiality obligations; or was known to Receiving Party without breach hereof; or was or is independently developed by Receiving Party; or is required to be disclosed by governmental or judicial order, in which case the Party so required shall give titula\n                              Institute for Smart Nation\n                                                                                                                                                                                                                                                                                                   -Government\n                                                                                                                                                              Page 5 of 25\n                                                                                                                                    Ajay Singh\n                                                                           *\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": []
+                }
+            },
+            {
+                "page": 6,
+                "tables": [],
+                "paragraphs": "the other Party prompt written notice, where possible, and use reasonable efforts to ensure that such disclosure is accorded confidential treatment and also to enable the other Party seek a protective order or other appropriate remedy.\n                                8 Intellectual Property Rights:\n8.1 All documents submitted by NISG in the performance of the Services shall become and remain the property of the DFCCIL.\n8.2 Despite anything to the contrary elsewhere contained in this Agreement, the intellectual property rights in all methodologies, processes, analysis and recommendations (including but not limited to any presentations made in respect thereof and/ or related thereto), frameworks, know-how and techniques used by NISG in providing Services hereunder that (a) existed prior to delivery of the Services, and/ or (b) are developed during and/ or independently of providing the Services, along with all improvements, enhancements and modifications to any or all of the foregoing shall vest with NISG.\n8.3 Neither Party shall by virtue of this Agreement gain any right to intellectual property of the other Party. By entering into this Agreement, Parties hereto agree not to use other Party's intellectual property without its prior written consent.\n                                       9 Communication of Notice:\n9.1 Any notice under this Agreement shall be in writing and shall either be delivered personally or sent by registered post or electronic mail in permanent written form. Either Party may change its address for notification purposes by giving the other Party written notice of the new address and the date upon which such new address will become effective.\n9.2 The addresses and members for service of notice shall be given to the Parties at their respective addresses set forth below:\n                                              DFCCIL: AGM/IT Networking\nDFCCIL Supreme Court Metro Building Complex Room no. 428, 4th Floor, New Delhi-110003 Email: ajaysinghit@dfcc.co.in\n                                                                                                                                                                                                                                                               for\n                                                                                                                                                                                                                                                       Institu\n                                                                                                                                                               Page 6 of 25\n                                                                   Ajay Singh\n                                                                                                                         OFCO.\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": []
+                }
+            },
+            {
+                "page": 7,
+                "tables": [],
+                "paragraphs": "NISG: The Chief Executive Officer (CEO) National Institute for Smart Government 5th Floor, Rear Wing, Mahanagar Door Sanchar Sadan 9, CGO Complex, New Delhi -110003 Email: ceo@nisg.org\n    9.3 Notices shall be effective when notices are delivered to the other Party.\n                                                    10 Indemnity:\nEither Party shall indemnify and hold harmless the other Party for all losses incurred in connection with any third-party claim, except to the extent finally judicially determined to have resulted primarily from the fraud or bad faith of such defaulting Party.\n                                    11 Completeness and Accuracy:\nDFCCIL & NISG recognizes that work to be performed is based on information, materials and instructions supplied by each other and undertakes that any information, materials and/ or instructions provided will be accurate, complete and in no way misleading. Each party shall be liable for his own default and expenses, penalties, costs, losses, damages, causes of action, claims judgments, including, reasonable attorney's fees incurred or suffered in relation to the said information and/ or materials and/ or instructions incurred by the defaulting party.\n                                                 12 Jurisdiction:\nThis Agreement shall be governed by and construed by in accordance with the laws of India and the Courts of New Delhi shall have jurisdiction.\n                   13 Dispute Resolution between DFCCIL and NISG:\n13.1 In the event of any dispute or difference whatsoever arising under this contract or in connection therewith including any dispute relating to existing meaning and interpretation of this contract shall be settled amicably through mutual negotiation by the parties.\n13.2 In case an amicable settlement is not possible, the same shall be referred to the sole arbitrator preferably from the approved list of empanelled arbitrators of DFCCIL provided the arbitrator is mutually agreed by both the parties. The terms and conditions of the arbitrator and his remuneration shall preferably be as per the DFCCIL schedule. The arbitration shall be\n                                                                                                                                                                                                                                       for\n                                                                                                                                                             Page 7 of 25                                                    Institut           Smar\n                                                                                                                                                                                                                                            art Government\n                                                       Ajay Singh\n                                                                                                           /DECCE\n                                                                                                                                                                                                                      Nation\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": [
+                        {
+                            "group": "NISG: The Chief Executive Officer (CEO)",
+                            "serialnumber": "1",
+                            "post": "Chief Executive Officer",
+                            "experienceYears": 10,
+                            "numberOfResources": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 8,
+                "tables": [],
+                "paragraphs": "conducted in accordance with the provisions of the Arbitration and Conciliation Act 1996 and its amendments thereof. Notwithstanding any dispute between the parties, the Service Provider shall not be entitled to withhold, delay, or defer its obligation under the contract, and the same shall be carried out strictly in accordance with the terms and conditions of the contract. The venue of the arbitration will be New Delhi.\n                                     14 Miscellaneous Provisions:\n                                                                14.1 Affirmation:\nThe Parties declare and affirm that neither Party nor its directors, employees, any of its agents have paid nor have undertaken to pay and that in the future not pay any unlawful commission, bribe, pay off, kick-backs that it has not in any other way or manner paid any sums, whether in Indian currency or foreign currency and whether in India or abroad, or in any other manner given or offered to give any gifts and presents in India or abroad to any person, to company, to procure this Agreement. The Parties undertake not to engage in any of the said or similar acts during the Term of and relative to this Agreement.\n                                                                 14.2 Third Party:\nThis Agreement is intended solely for the benefit of the Parties hereto. Nothing in this Agreement shall be construed to create any duty, or any liability to, any person not a party to this Agreement.\n                                                              14.3 No Assignment:\nThis Agreement shall not be assigned by the NISG to any person, save and except with the prior consent in writing of the DFCCIL, which consent the DFCCIL shall be entitled to decline without assigning any reason.\n                                               14.4 Provision for Modification(s):\nThe Parties agree to make suitable amendments, and modifications to this Agreement by mutual agreement with prior consultation in writing as per necessity, provided that no modification, amendment, or variation of any provision of this Agreement, which would result in financial implications, shall be effective unless the same has been approved in writing through an addendum signed by authorized signatories of both the Parties. Any reference to this Agreement shall be construed as a reference to such agreement, as the same may from time to time be amended, varied, modified, supplemented.\n                                                                                                                                                                                                                                 Government National Institute for\n                                                            Ajay Singh                                                                                        Page 8 of 25\n                                                                                                      TOFCC +\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": []
+                }
+            },
+            {
+                "page": 9,
+                "tables": [],
+                "paragraphs": "                                               14.5 Severability and Renegotiation:\nShould any provision of this Agreement for any reason be declared invalid or un- enforceable by an order of any court of competent jurisdiction or any arbitral body pursuant to the provisions of arbitration hereof, such decision shall not affect the validity of the remaining provisions, while remaining provisions shall remain in full force and effect as if this Agreement has been executed with the invalid or unenforceable provisions hereof eliminated. In the event any such provision of the Agreement is so declared invalid or unenforceable, the Parties shall promptly renegotiate in good faith new provisions to eliminate such invalidity or unenforceability and to restore this Agreement as near as possible to its original intent and effect.\n                                              14.6 Relationship between the Parties:\nThis Agreement shall not be interpreted or construed to create an association, joint venture, or partnership between the Parties, or to impose any partnership obligation or liability upon either Party. Neither Party shall have any right, power, or authority to enter into any agreement or undertaking for, or act on behalf of, or to act as or be an agent or representative of, or to otherwise bind, the other Party save as expressly provided herein.\n                                                                      14.7 Survival:\nAll provisions of this Agreement, which are expressly or by implication to come into or continue in force and effect after the expiration or termination of this Agreement shall remain in effect and be enforceable following such expiration or termination.\n                                                                    14.8 No Waiver:\nNo failure by either Party to exercise and no delay in exercising any right, power or remedy under this Agreement will operate as a waiver. Nor shall any single or partial exercise of any rights, power or remedy preclude any other or further exercise of that or any other right, power, or remedy.\n                                                             14.9 Entire Agreement:\nThis Agreement contains the entire agreement between DFCCIL and NISG with respect to its subject matter. All previous agreements, understanding and consents between the Parties (whether oral or in writing) form a part of this agreement. However, In case of any conflicts, this agreement shall take preference over its predecessors.\n                                                                                                                                                                                                                              National Smart Government Institute For\n                                                        Aguy Singh\n                                                                                                                                                               Page 9 of 25\n                                                                                                     IDFCC =4\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": []
+                }
+            },
+            {
+                "page": 10,
+                "tables": [],
+                "paragraphs": "                                                 14.10 Annexure to this Agreement:\nThe Parties agree that the Annexure to this Agreement form part of this Agreement and will be in full force and effect as though they were expressly set out in the body of this Agreement.\n                                                  15 Termination:\nDFCCIL may terminate this Agreement in case of occurrence of any of the events specified in paragraphs (a) to (c) of this clause. In such an occurrence DFCCIL shall give a not less than ninety (90) days written notice of termination to the NISG:\na. If, as a result of Force Majeure, NISG is unable to perform the Services for a period of not less than ninety (90) days.\nb. If NISG is in material breach of its obligations pursuant to this Agreement and has not remedied the same within sixty (60) days (or such longer period as the DFCCIL may have subsequently approved in writing) following the receipt by NISG of DFCCIL's notice specifying such breach.\nc. If DFCCIL, in its sole discretion and for any reason whatsoever, decides to terminate this Agreement, in that case it may be done after making payments to the NISG for the Services actually rendered for carrying out the work till the date of termination and NISG shall return to DFCCIL such assets or part thereof as gathered by the Resource(s)s under this Agreement prior to the date of such termination. The total amount, if any, paid to the NISG but unutilized at the time of such termination, shall be returned by the NISG to the DFCCIL.\nNISG may terminate this Agreement in case of occurrence of any of the events specified in paragraphs (a) to (d) of this clause. In such an occurrence NISG shall give a not less than ninety (90) days written notice of termination to the DFCCIL:\na. If as a result of Force Majeure, NISG is unable to perform the Services for the period of not less than ninety (90) days.\nb. If DFCCIL is in material breach of its obligations pursuant to this Agreement and has not remedied the same within sixty (60) days (or such longer period as NISG may have subsequently approved in writing) following the receipt by DFCCIL of NISG's notice specifying such breach.\nc. DFCCIL fails to pay any money due to NISG pursuant to this Agreement and not subject to dispute within sixty (60) days after receiving written notice from NISG that such payment is overdue.\n                                                                                                                                                                                                                                                 Government /institute fo\n                                                                                                                                                                                                                                                                                    National\n                                                       Ajay Singh                                                                                          Page 10 of 25\n                                                                                                                                                                                                                                                                                          AS TOT\n                                                                                        TOFCG * HBOMS\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": []
+                }
+            },
+            {
+                "page": 11,
+                "tables": [],
+                "paragraphs": "d. If NISG, in its sole discretion and for any reason whatsoever, decides to terminate this Agreement, in that case the NISG shall return to the DFCCIL such assets or part thereof as gathered by the Resource(s)s under this Agreement prior to the date of such termination. The total amount of advance, if any, paid to the NISG but unutilized at the time of such termination, shall be returned by the NISG to the DFCCIL.\n                          16 Resource(s) deployed for the Project:\n16.1 1 During the period of deployment, Resource(s) would be governed by the express terms of their contract entered with NISG. The NISG shall, subject to the terms of this Agreement, be responsible for the deployment of the Resource(s). The Resource(s) deployed by the NISG shall work under the supervision and direction of the DFFCIL. Before deployment, the Resource(s) shall also be required to sign a Non- Disclosure Agreement (NDA) with NISG. The format of this NDA shall be as mutually agreed upon between DFFCIL and NISG.\n16.2 Performance: DFCCIL may periodically provide feedback to NISG about the performance of Resource(s) to facilitate performance management and any performance appraisal of the Resource(s).\n16.3 Probation: NISG will seek feedback from the DFFCIL on the performance of the Resource(s)(s) upon completion of a probation period of six (06) months from the date of joining of the Resource(s)(s). Based on satisfactory feedback, NISG shall confirm the\nservices of the Resource(s)(s). In case of unsatisfactory performance feedback of the Resource(s)(s), DFFCIL may suggest NISG for extension of the probation period by a further period not exceeding 6 months. In the event DFFCIL does not provide any feedback on the performance of the Resource(s)(s) within thirty (30) days of completion of probation period of the Resource(s)(s), the services of such Resource(s)(s) shall be deemed confirmed.\n                                                   16.4 Termination of Resource(s):\n16.4.1 During Probation: DFCCIL may request NISG to terminate the services of the Resource(s) by giving one (01) month written notice or salary in lieu thereof.\n                                                                                                                                                                                                                                              Government National Institute for\n                                               Auy Singh\n                                                                                                                                                             Page 11 of 25\n                                                                                                                                                                                                                                                                            smart\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": [
+                        {
+                            "group": "Resource(s) deployed for the Project",
+                            "serialnumber": "1",
+                            "post": "Resource(s)",
+                            "experienceYears": 6,
+                            "numberOfResources": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 12,
+                "tables": [],
+                "paragraphs": "16.4.2 Upon completion of Probation: DFCCIL may request NISG to terminate the services of the Resource(s) by giving three (03) months written notice or salary in lieu thereof.\n16.5 Resignation: Resource(s) may resign from the service by giving three (03) months written notice or salary in lieu thereof.\n16.6 Resource will have to conduct Knowledge Transfer session for at least 15 days during the notice period. Reliving of resource shall be subject to successful completion of Knowledge Transfer sessions.\n16.7 Replacement: For any request for replacement of the Resource(s) deployed on account of termination of such Resource(s) in accordance with Clause 16.4 and on resignation as per Clause 16.5 of this contract, DFCCIL shall give a formal written notice to NISG. NISG shall accordingly process such request within reasonable time, not exceeding 04 months through standard recruitment process. A\n                                                            Ajay Singh\n                                                                                                                                                                                                                                            Smart Government institute for Smart\n                                                                                                                                                                                                                                                                                                National\n                                                                                                                                                          Page 12 of 25\n                                                                                                                                                                                                                                                                               0\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": [
+                        {
+                            "group": "",
+                            "serialnumber": "",
+                            "post": "",
+                            "experienceYears": 0,
+                            "numberOfResources": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 13,
+                "tables": [],
+                "paragraphs": "                                        17 Statutory Liability:\n17.1 DFCCIL shall follow all statutory rules and regulations, and any monetary obligation arising thereof including (but not limited to) maternity benefits, etc., shall be borne by DFCCIL. Gratuity shall be part of the Resource CTC.\n17.2 Any monetary obligation/ costs arising out of replacement of Resource(s), either on account of leave including (but not limited to) the Maternity Benefit Act 1961 (and subsequent amendments therein), or any other applicable statute, shall be borne by the DFCCIL.\n17.3 Where a woman absents herself from work in accordance with the provisions of Maternity benefits Act, 1961 it shall be unlawful for the Client to discharge or dismiss her during or on account of such absence or give notice of discharge or dismissal on such a date that the notice will expire during such absence or to vary to her disadvantage any of the conditions of her service. DFCCIL shall resume her services upon her return from maternity leave at the same position/level/role only up to the date of validity of the contract.\n                                      18 Limitation of Liability:\n18.1 The Resource(s) deployed by NISG shall work under the supervision and direction of DFCCIL and DFCCIL being responsible for the performance outcome of the Resource(s). It is mutually agreed that NISG would not be liable for any acts of omission/commission/fraud attributable to and/or\" committed by the Resource(s) deployed with the Client.\n18.2 In no event shall either of the Parties to this Agreement be liable to each other for consequential, indirect, special, incidental, or punitive loss, damage, or expense (including without limitation, loss of profits, loss of contracts, loss and corruption of data, loss, or damage to the reputation and/ or goodwill, opportunity costs, etc.) even if the Parties have been advised of their possible existence.\n                              19 Additional Terms and Conditions\n19.1 The price quoted is with the assumption of an attrition rate of 20%, however NISG will not charge any additional amount towards recruitment of replacement candidates.\n19.2 The procurement details of Laptop/Desktop including the model make and specifications shall be shared with DFCCIL for approval. All such assets\n                                                                                                                                                            Page 13 of 25\n                                                                 Ajay Singh\n                                                                                                                                                                                                                                                                                           National Institute\n                                                                                                                                                                                                                                                                 Smart Government\n                                                                                                              TOFCC\n                                                                                                                                                                                                                                                                  1\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": [
+                        {
+                            "group": null,
+                            "serialnumber": null,
+                            "post": null,
+                            "experienceYears": null,
+                            "numberOfResources": null
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 14,
+                "tables": [
+                    {
+                        "rowCount": 8,
+                        "columnCount": 5,
+                        "headerGroups": [
+                            "For and on behalf of the DFCCIL Ajiny Singh org /DECC * ( Name: Mr. Ajay Singh",
+                            "For and on behalf of NISG . for Smart National Institute vernment Name: Mr. Ashish * Bhatnagar",
+                            "For and on behalf of NISG . for Smart National Institute vernment Name: Mr. Ashish * Bhatnagar",
+                            "For and on behalf of NISG . for Smart National Institute vernment Name: Mr. Ashish * Bhatnagar",
+                            "For and on behalf of NISG . for Smart National Institute vernment Name: Mr. Ashish * Bhatnagar"
+                        ],
+                        "rowGroups": [
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "Designation: AGM/IT",
+                                "Designation: Vice President",
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "Date: 16.06.2023.",
+                                "Date: 16/6/2023",
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "Place: New Delhi",
+                                "Place: New Delhi",
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "Witnessed by: Owa 16/06/23 1. Umang Kaushik, AM-IT 2. CK\u00b7KALLA MANAGER-11",
+                                "Witnessed by: - 1. Vineet Gaur, GM, NISG 1 2. Sunil Kalra, GM, NISG / ment Page 14 of 25 Institute\nGo",
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        ],
+                        "matchingColumn": [],
+                        "matchingRow": []
+                    }
+                ],
+                "paragraphs": "procured shall be the property of DFCCIL. The resource leaving or getting relieved during the tenure shall handover the asset to the department.\n19.3 Resource(s) shall be entitled to 2 days leave per month apart from DFCCIL's holidays which can be carried forward during their tenure. The leaves shall be non-encashable.\n19.4 The services of resources are purely on a contract basis, there is no claim for permanency in DFCCIL.\n19.5 The base location of resources is DFCCIL corporate office, New Delhi. However, resources can be posted at DFCCIL offices anywhere in India.\nIN WITNESS WHEREOF, the Parties hereto agree to be bound by the terms and conditions of this\nAgreement and have signed it through their authorized representative on this day of April 2023.\n\n               \n                \n                       For and on behalf of the DFCCIL Ajiny Singh org /DECC * ( Name: Mr. Ajay Singh|  For and on behalf of NISG . for Smart National Institute vernment Name: Mr. Ashish * Bhatnagar| \n   Designation: AGM/IT|  Designation: Vice President| \n   Date: 16.06.2023.|  Date: 16/6/2023| \n   Place: New Delhi|  Place: New Delhi| \n   Witnessed by: Owa 16/06/23 1. Umang Kaushik, AM-IT 2. CK\u00b7KALLA MANAGER-11|  Witnessed by: - 1. Vineet Gaur, GM, NISG 1 2. Sunil Kalra, GM, NISG / ment Page 14 of 25 Institute\nGo| \n  \n                \n             ",
+                "fields": {
+                    "scopeOfWork": [
+                        {
+                            "group": null,
+                            "serialnumber": null,
+                            "post": null,
+                            "experienceYears": null,
+                            "numberOfResources": null
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 15,
+                "tables": [
+                    {
+                        "rowCount": 10,
+                        "columnCount": 8,
+                        "headerGroups": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Experience:years",
+                            "",
+                            "",
+                            "No. o:Resource(s)s"
+                        ],
+                        "rowGroups": [
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "1 SAP Head",
+                                null,
+                                null,
+                                "Delivery",
+                                "15+",
+                                "",
+                                null,
+                                "1"
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "2",
+                                "SAP Manager",
+                                null,
+                                "Project",
+                                "10+",
+                                "",
+                                null,
+                                "1"
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "3",
+                                "SAP",
+                                null,
+                                "Project",
+                                "6-8",
+                                "",
+                                null,
+                                "2"
+                            ],
+                            [
+                                "",
+                                "Coordinator",
+                                null,
+                                null,
+                                "",
+                                "",
+                                null,
+                                ""
+                            ],
+                            [
+                                "",
+                                "Total",
+                                null,
+                                "",
+                                "",
+                                "",
+                                null,
+                                "4"
+                            ],
+                            [
+                                "",
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                ""
+                            ]
+                        ],
+                        "matchingColumn": [],
+                        "matchingRow": []
+                    },
+                    {
+                        "rowCount": 13,
+                        "columnCount": 5,
+                        "headerGroups": [
+                            "S.no",
+                            "Post",
+                            "Experience\nyears",
+                            "in",
+                            "No\nof Resource(s)s"
+                        ],
+                        "rowGroups": [
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "1",
+                                "SAP - HCM Consultant",
+                                "3-5",
+                                "",
+                                "1"
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "2",
+                                "SAP- EP Consultant",
+                                "3 - 5",
+                                "",
+                                "1"
+                            ],
+                            [
+                                "3",
+                                "SAP - FICO Consultant",
+                                "3 - 5",
+                                "",
+                                "1"
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "4",
+                                "SAP - ABAP Consultant",
+                                "3 - 5",
+                                "",
+                                "1"
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "5",
+                                "SAP - MM Consultant",
+                                "3 - 5",
+                                "",
+                                "1"
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "6",
+                                "Sr. SAP - HCM",
+                                "6 - 8",
+                                "",
+                                "1"
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        ],
+                        "matchingColumn": [],
+                        "matchingRow": []
+                    }
+                ],
+                "paragraphs": "                        Annexure I: Scope of Work (\"Services\")\n1. The Resource(s)s shall be on boarded through the standard recruitment process indicated in the proposal. Resource(s)s are to be onboarded at indicated Resource(s) Location of onboarding. The same is summarized as below:\n                                                                Group-1\n                                                SAP Managerial Positions\n                                                   Group-2 SAP Positions\n                                                                                                                                                                                                                                                                                   Government\n                                                                                                                                                                                                                                                                                                      National\n                                                                                                                                                               Page 15 of 25\n                                          Ajay Singh\n                                                                                                                                                                                                                                                                           Smart G.\n\n               \n                \n                       S.no Post|  |  Experience|  in|  No. o| \n   |  |  years|  |  Resource(s)s| \n   1 SAP Head|  Delivery|  15+|  |  1| \n   2|  SAP Manager|  Project|  10+|  |  1| \n   3|  SAP|  Project|  6-8|  |  2| \n   |  Coordinator|  |  |  | \n   |  Total|  |  |  |  4| \n   |  | \n  \n   S.no|  Post|  Experience\nyears|  in|  No\nof Resource(s)s| \n   1|  SAP - HCM Consultant|  3-5|  |  1| \n   2|  SAP- EP Consultant|  3 - 5|  |  1| \n   3|  SAP - FICO Consultant|  3 - 5|  |  1| \n   4|  SAP - ABAP Consultant|  3 - 5|  |  1| \n   5|  SAP - MM Consultant|  3 - 5|  |  1| \n   6|  Sr. SAP - HCM|  6 - 8|  |  1| \n  \n                \n             ",
+                "fields": {
+                    "scopeOfWork": [
+                        {
+                            "group": "Group-1",
+                            "serialnumber": 1,
+                            "post": "SAP Head",
+                            "experienceYears": 15,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "Group-1",
+                            "serialnumber": 2,
+                            "post": "SAP Manager",
+                            "experienceYears": 10,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "Group-1",
+                            "serialnumber": 3,
+                            "post": "SAP Project Coordinator",
+                            "experienceYears": 6,
+                            "numberOfResources": 2
+                        },
+                        {
+                            "group": "Group-2",
+                            "serialnumber": 1,
+                            "post": "SAP - HCM Consultant",
+                            "experienceYears": 3,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "Group-2",
+                            "serialnumber": 2,
+                            "post": "SAP- EP Consultant",
+                            "experienceYears": 3,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "Group-2",
+                            "serialnumber": 3,
+                            "post": "SAP - FICO Consultant",
+                            "experienceYears": 3,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "Group-2",
+                            "serialnumber": 4,
+                            "post": "SAP - ABAP Consultant",
+                            "experienceYears": 3,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "Group-2",
+                            "serialnumber": 5,
+                            "post": "SAP - MM Consultant",
+                            "experienceYears": 3,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "Group-2",
+                            "serialnumber": 6,
+                            "post": "Sr. SAP - HCM",
+                            "experienceYears": 6,
+                            "numberOfResources": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 16,
+                "tables": [
+                    {
+                        "rowCount": 7,
+                        "columnCount": 4,
+                        "headerGroups": [
+                            null,
+                            null,
+                            null,
+                            null
+                        ],
+                        "rowGroups": [
+                            [
+                                "",
+                                "Consultant",
+                                "",
+                                ""
+                            ],
+                            [
+                                "7",
+                                "Sr. SAP- EP Consultant",
+                                "6 - 8",
+                                "1"
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "8",
+                                "Sr. SAP - FICO Consultant",
+                                "6 - 8",
+                                "1"
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "9",
+                                "Sr. SAP - ABAP Consultant",
+                                "6 - 8",
+                                "1"
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        ],
+                        "matchingColumn": [],
+                        "matchingRow": []
+                    },
+                    {
+                        "rowCount": 18,
+                        "columnCount": 4,
+                        "headerGroups": [
+                            "10",
+                            "Sr. SAP - BASIS Consultant",
+                            "6 - 8",
+                            "0"
+                        ],
+                        "rowGroups": [
+                            [
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "11",
+                                "Sr. SAP - SD Consultant",
+                                "6 - 8",
+                                "0"
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "12",
+                                "Sr. SAP - PS Consultant",
+                                "6 - 8",
+                                "0"
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "13",
+                                "Sr. SAP - MM Consultant",
+                                "6 - 8",
+                                "1"
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "14",
+                                "SAP -SD Team Lead",
+                                "8 - 10",
+                                "1"
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "15",
+                                "SAP - Team Lead (FICO)",
+                                "8 - 10",
+                                "2"
+                            ],
+                            [
+                                "16",
+                                "SAP - Team Lead (HCM)",
+                                "8 - 10",
+                                "2"
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "17",
+                                "SAP - Team Lead (PS/MM)",
+                                "8 - 10",
+                                "1"
+                            ],
+                            [
+                                "18",
+                                "SAP - Team Lead (EP)",
+                                "8 - 10",
+                                "2"
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "19",
+                                "SAP - Team Lead (ABAP)",
+                                "8 - 10",
+                                "1"
+                            ],
+                            [
+                                "",
+                                "Total",
+                                "",
+                                "19"
+                            ]
+                        ],
+                        "matchingColumn": [],
+                        "matchingRow": []
+                    }
+                ],
+                "paragraphs": "2. The Resource(s)s provided by the NISG are expected to be on the NISG payroll and work exclusively for the DFCCIL.\n3. The candidates would be recruited for a fixed term of 3 years and may be further extended based on mutual agreement.\n                                                 Ajay Singh                                                                                                                                                                                                           Government\n                                                                                                                                                                                                                                                                           National Institute for\n                                                                                                                                                            Page 16 of 25\n\n               \n                \n                       |  Consultant|  |  | \n   7|  Sr. SAP- EP Consultant|  6 - 8|  1| \n   8|  Sr. SAP - FICO Consultant|  6 - 8|  1| \n   9|  Sr. SAP - ABAP Consultant|  6 - 8|  1| \n  \n   10|  Sr. SAP - BASIS Consultant|  6 - 8|  0| \n   11|  Sr. SAP - SD Consultant|  6 - 8|  0| \n   12|  Sr. SAP - PS Consultant|  6 - 8|  0| \n   13|  Sr. SAP - MM Consultant|  6 - 8|  1| \n   14|  SAP -SD Team Lead|  8 - 10|  1| \n   15|  SAP - Team Lead (FICO)|  8 - 10|  2| \n   16|  SAP - Team Lead (HCM)|  8 - 10|  2| \n   17|  SAP - Team Lead (PS/MM)|  8 - 10|  1| \n   18|  SAP - Team Lead (EP)|  8 - 10|  2| \n   19|  SAP - Team Lead (ABAP)|  8 - 10|  1| \n   |  Total|  |  19| \n  \n                \n             ",
+                "fields": {
+                    "scopeOfWork": [
+                        {
+                            "group": "Consultant",
+                            "serialnumber": "7",
+                            "post": "Sr. SAP- EP Consultant",
+                            "experienceYears": 6,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "Consultant",
+                            "serialnumber": "8",
+                            "post": "Sr. SAP - FICO Consultant",
+                            "experienceYears": 6,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "Consultant",
+                            "serialnumber": "9",
+                            "post": "Sr. SAP - ABAP Consultant",
+                            "experienceYears": 6,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "Consultant",
+                            "serialnumber": "10",
+                            "post": "Sr. SAP - BASIS Consultant",
+                            "experienceYears": 6,
+                            "numberOfResources": 0
+                        },
+                        {
+                            "group": "Consultant",
+                            "serialnumber": "11",
+                            "post": "Sr. SAP - SD Consultant",
+                            "experienceYears": 6,
+                            "numberOfResources": 0
+                        },
+                        {
+                            "group": "Consultant",
+                            "serialnumber": "12",
+                            "post": "Sr. SAP - PS Consultant",
+                            "experienceYears": 6,
+                            "numberOfResources": 0
+                        },
+                        {
+                            "group": "Consultant",
+                            "serialnumber": "13",
+                            "post": "Sr. SAP - MM Consultant",
+                            "experienceYears": 6,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "Consultant",
+                            "serialnumber": "14",
+                            "post": "SAP -SD Team Lead",
+                            "experienceYears": 8,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "Consultant",
+                            "serialnumber": "15",
+                            "post": "SAP - Team Lead (FICO)",
+                            "experienceYears": 8,
+                            "numberOfResources": 2
+                        },
+                        {
+                            "group": "Consultant",
+                            "serialnumber": "16",
+                            "post": "SAP - Team Lead (HCM)",
+                            "experienceYears": 8,
+                            "numberOfResources": 2
+                        },
+                        {
+                            "group": "Consultant",
+                            "serialnumber": "17",
+                            "post": "SAP - Team Lead (PS/MM)",
+                            "experienceYears": 8,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "Consultant",
+                            "serialnumber": "18",
+                            "post": "SAP - Team Lead (EP)",
+                            "experienceYears": 8,
+                            "numberOfResources": 2
+                        },
+                        {
+                            "group": "Consultant",
+                            "serialnumber": "19",
+                            "post": "SAP - Team Lead (ABAP)",
+                            "experienceYears": 8,
+                            "numberOfResources": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 17,
+                "tables": [],
+                "paragraphs": "4. The responsibilities to be borne by the NISG for delivery of its Services under this Agreement can be classified broadly in two categories.\ni Part A: Provisioning of Resource(s) to the DFCCIL as per DFCCIL's requirements from time to time.\n    ii. Part B: Post-recruitment Deployment and payrolling of Resource(s)(s)\nPart A: Provisioning of Resource(s) to the DFCCIL as per DFCCIL's requirements from time to time as communicated through Work Orders:\n                                                         i. Pre-recruitment phase\na. Liaise with DFCCIL to obtain the list of open positions & numbers with job descriptions for the open positions.\nb. Formally obtain a salary bracket range for the positions from the DFCCIL as per the prevailing market rates, in agreement with the DFCCIL.\nc. Formally obtain from the DFCCIL, special requirements if any, keeping in view the guidelines governing the DFCCIL.\nd. Formally ascertain from the DFCCIL, shortlisting criteria, keeping in view the guidelines governing the DFCCIL.\n                                                             ii. Selection phase\n                     a. Short-listing of candidates as per the criteria furnished by the DFCCIL.\n                           b. Facilitating interview of candidates as indicated in the proposal.\n                                          c. Follow up with the candidates and offer generation.\n                                               d. Background verification of selected candidate.\n               Part B: Post-recruitment: Deployment and payrolling of Resource(s).\n  a. Deploy the Resource(s)s in accordance with the panel approved by the DFCCIL.\n                       b. Facilitate performance appraisal process by the DFCCIL.\nc. Maintain accounts of funds received from the DFCCIL and share with the DFCCIL as per the DFCCIL request.\n          d. Maintain records of Resource(s)s from their joining until relieving.\n                                                       Ajay Singh\n                                                                                           /DECC **\n                                                                                                                                                                                                                                                                Smart Government\n                                                                                *\n                                                                                                                                                             Page 17 of 25\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": [
+                        {
+                            "group": "Part A: Provisioning of Resource(s)",
+                            "serialnumber": "1",
+                            "post": "Resource(s) Provisioning",
+                            "experienceYears": null,
+                            "numberOfResources": null
+                        },
+                        {
+                            "group": "Part B: Post-recruitment Deployment and payrolling",
+                            "serialnumber": "2",
+                            "post": "Deployment and payrolling of Resource(s)",
+                            "experienceYears": null,
+                            "numberOfResources": null
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 18,
+                "tables": [],
+                "paragraphs": "                                                                                   Talent management:\n                                             Effective HR management and administration of personnel.\ni. Implement NISG HR policies to the extent applicable as per the NISG's contract with the Resource(s)s.\nii. Ensure smooth functioning of all administrative responsibilities including maintaining employee records and other routine administrative functions.\niii. Facilitate performance appraisal process as per the suggested process of NISG in coordination with DFCCIL.\niv. Utilization of funds received from DFCCIL, towards management of the activities under this proposal.\n                         V. Ensure that the payroll process is management timely & efficiently.\n   vi. Ensure that operational aspects related to PF and TDS are completed on a periodic basis.\nvii. Manage necessary requirements related to joining and relieving of candidates including accounting and administrative process for the period of employment of the candidates deputed with DFCCIL.\n                           viii. Processing of confirmations on completion of probation period.\nix. Renewal of employee agreements on completion of the contract period or complete the exit formalities.\n                       X. Conduct the exit interview and incorporate feedback for improvements.\n                                   5 Roles and Responsibilities\n                                             A. Roles and Responsibilities of NISG\ni. To appoint a representative, who shall be the primary point of contact for DFCCIL, for all the activities related to the management of the Project. All the requirements will be conveyed to NISG through the representative so identified. ii NISG shall provide Resource(s)(s) as per the requirements of DFCCIL mentioned in Annexure-I, by carrying out recruitment of such Resource(s)(s) from the open market.\niii. Facilitating interview of candidates, Follow up with the candidates for interview, selection, and their offer generation.\n      iv. NISG shall conduct background verification of selected candidates.\n                                                                                                                                                                                                                                                                                      Government\n                                                                                                                                                                                                                                                                                                       National\n                                             Aging Singh                                                                                                      Page 18 of 25\n                                                                                                                                                                                                                                                                       Institute for Smart\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": [
+                        {
+                            "group": "",
+                            "serialnumber": "",
+                            "post": "",
+                            "experienceYears": 0,
+                            "numberOfResources": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 19,
+                "tables": [],
+                "paragraphs": "     V. Maintain records of Resource(s)(s) from their joining until relieving.\n                                            B. Roles and Responsibilities of DFCCIL\ni. To appoint a representative, who shall be the primary point of contact for NISG, for all the activities related to the management of the Project. All the requirements will be conveyed to the NISG through the representative so identified.\nii. To provide information related to recruitment, including but not limited to, number, qualifications, experience, and job description of personnel to be recruited as Resource(s) under this Agreement.\niii. To finalize the selection of Resource(s)(s) and communicate the particulars of those selected. To provide requisite infrastructure and workspace to the Resource(s)(s) deployed by the NISG under this Agreement.\niv. To supervise and monitor activities of the Resource(s) and provide periodic performance feedback to NISG.\nV To provide timely intimation to NISG in case of any issues regarding the work outcome and conduct of the deployed Resource(s).\n                        vi. To make timely advance quarterly payment to NISG.\nvii. To grant or procure necessary consents, approvals, authorizations, clearances from concerned competent authorities or external agencies as may be required from time to time for adequate delivery of Services by the NISG under this Agreement.\nviii. To provide required hardware and software support to the Resource(s) to execute the Project.\nix. To submit to the NISG, the attendance of the Resource(s), duly verified by the DFCCIL representative, by 18th of every month (or any date which is mutually agreed between the Parties).\nX. Approve the job descriptions (related to recruitment, including but not limited to, number, qualifications, skills, experience, of personnel to be recruited), as per their applicable policies and requirements.\n     xi. Provide requisite infrastructure and workspace to the Resource(s)s.\nxii. Provide required tools and software to the Resource(s)s to execute project activities. xiii. Conduct induction program for the new hires.\nxiv. Assign work, monitor, control and review the work performed by the employees and provide periodic performance feedback to NISG.\n                                                                                                                                                                                                                                                                                                      Alth\nXV. Execute the annual performance appraisal (PMS) with support from NISG\n                                                Ajay Singh\n                                                                                                                                                                                                                                                           Government stitute for Smart\n                                                                                                                                                             Page 19 of 25\n                                                                                                                                                                                                                                                                                                        National\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": [
+                        {
+                            "group": null,
+                            "serialnumber": null,
+                            "post": null,
+                            "experienceYears": null,
+                            "numberOfResources": null
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 20,
+                "tables": [],
+                "paragraphs": "xvi. Approve the performance ratings for the employees to finalize the variable pay, if applicable.\n                      xvii. Make timely advance quarterly payment to NISG.\nxviii. Provide timely intimation to NISG in case of any issues with the employees. xix. Ensure knowledge transfer to the incumbent Resource(s) in case of resignations.\n                                                                                                                                                                                                                                                                                                                                            liti\nDFCCIL in consultation with NISG may decide to modify or terminate the stated roles on the basis of requirements, an adequate notice period of not less than 3 months shall be given by DFCCIL to NISG in case of any termination of the role.\n                                                                                                                                                                                                                                                            44th\n                                                                                                                                                                                                                                                                                           / 1\n                                                                                                                                                                                                                                                                                               for\n                                                                                                                                                                                                                                                                  National Institute\n                                                                                                                                                                                                                                                                                                     Smart\n                                                                  Ajay Singh\n                                                                                                                                                                                                                                               Natio Government institute for Smart\n                                                                                                                                                               Page 20 of 25\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": [
+                        {
+                            "group": "",
+                            "serialnumber": "",
+                            "post": "",
+                            "experienceYears": "",
+                            "numberOfResources": ""
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 21,
+                "tables": [],
+                "paragraphs": "                  Annexure II: Management Fee and Payment Terms\nA. For the Services rendered by the NISG as per Annexure I of this Agreement, the NISG shall charge the DFCCIL the Project Cost which shall include the following:\n1. Actual Cost to Company (CTC) of the Resource(s)s based on actual deployment as per the invoice(s) raised by the NISG.\n2. Management Fee which shall be 15% of the actual CTC of each of the Resource(s). GST @18% Extra\n                                                B. Payment Terms\n1. DFCCIL shall pay quarterly advances to the NISG, as per the invoice(s) raised by the NISG on a quarterly basis, based on actual deployment of Resource(s).\n2. On the next billing cycle/next applicable quarter NISG shall raise the invoice on 10th day of the month on actuals, along with utilization certificate, and payments shall be adjusted accordingly by DFCCIL.\n3. DFCCIL shall process the amount as per the invoice raised by the NISG and shall release the payment to the NISG by 25th of the month in which invoice is submitted to the DFCCIL by the NISG.\n4. NISG shall ensure that the Resource(s)(s) deployed receive their remuneration on the last working day of every month, or within three (03) working days from the date of receipt of payment from the DFCCIL where there has been a delay by the DFCCIL in releasing payments to the NISG.\n                     5. DFCCIL shall have the following obligation towards the NISG.\na. The actual CTCs (Cost to Company) of the Resource(s) deployed, shall be revised yearly as may be determined by the DFCCIL depending upon the performance of the deployed Resource(s). The yearly increase shall not exceed 10% of the actual CTC of the deployed Resource(s).\nb. The changes in designation of any of the Resource(s)s deployed shall be affected on the request of the DFCCIL and reflected in the records by the NISG.\n                                                                                                                                                                                                                                                                                                   1\n                                                                 Ajay Singh\n                                                                                                                                                                                                                                                                                            il\n                                                                                                                                                                                                                                                                                National Institute f\n                                                                                                                                                                                                                                                 rt Government Smart Go\n                                                                                                                                                               Page 21 of 25\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": []
+                }
+            },
+            {
+                "page": 22,
+                "tables": [
+                    {
+                        "rowCount": 9,
+                        "columnCount": 6,
+                        "headerGroups": [
+                            "S.no",
+                            "Post",
+                            "in\nExperience years",
+                            "No.\nof\nResource(s)s",
+                            "Proposed\nINR) in Lacs",
+                            "(CTC"
+                        ],
+                        "rowGroups": [
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "1",
+                                "SAP - Delivery Head",
+                                "15+",
+                                "1",
+                                "50 - 60",
+                                ""
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "2",
+                                "SAP - Project\nManager",
+                                "10+",
+                                "1",
+                                "45 - 50",
+                                ""
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "3",
+                                "SAP - Project",
+                                "6-8",
+                                "2",
+                                "25-30",
+                                ""
+                            ],
+                            [
+                                "",
+                                "Coordinator",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            [
+                                "",
+                                "Total",
+                                "",
+                                "4",
+                                "",
+                                ""
+                            ]
+                        ],
+                        "matchingColumn": [],
+                        "matchingRow": []
+                    },
+                    {
+                        "rowCount": 13,
+                        "columnCount": 8,
+                        "headerGroups": [
+                            "S.no",
+                            "Post",
+                            "Experience\nyears",
+                            "in",
+                            "in",
+                            "No.\nof\nResource(s)s",
+                            "Proposed\nINR) in Lacs",
+                            "(CTC"
+                        ],
+                        "rowGroups": [
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "1",
+                                "SAP - HCM",
+                                "3 - 5",
+                                "",
+                                null,
+                                "1",
+                                "12 - 16",
+                                ""
+                            ],
+                            [
+                                null,
+                                "Consultant",
+                                "",
+                                "",
+                                null,
+                                "",
+                                "",
+                                ""
+                            ],
+                            [
+                                "2",
+                                "SAP- EP Consultant",
+                                "3 - 5",
+                                "",
+                                null,
+                                "1",
+                                "12 - 16",
+                                ""
+                            ],
+                            [
+                                "3",
+                                "SAP - FICO",
+                                "3 - 5",
+                                "",
+                                null,
+                                "1",
+                                "12 - 16",
+                                ""
+                            ],
+                            [
+                                "",
+                                "Consultant",
+                                "",
+                                "",
+                                null,
+                                "",
+                                "",
+                                ""
+                            ],
+                            [
+                                "4",
+                                "SAP - ABAP Consultant",
+                                "3 - 5",
+                                "",
+                                null,
+                                "1",
+                                "12 - 16",
+                                ""
+                            ],
+                            [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "5",
+                                "SAP - MM",
+                                "3 - 5",
+                                "",
+                                null,
+                                "1",
+                                "12 - 16",
+                                ""
+                            ],
+                            [
+                                null,
+                                "Consultant",
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            [
+                                "6",
+                                "Sr. SAP - HCM",
+                                "6 - 8",
+                                "",
+                                null,
+                                "1",
+                                "20 - 24",
+                                ""
+                            ],
+                            [
+                                null,
+                                "Consultant",
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        ],
+                        "matchingColumn": [],
+                        "matchingRow": []
+                    }
+                ],
+                "paragraphs": "                                  All amounts are in Rs. Lakhs\n                                           i. Employee CTC\n                                                                Group-1\n                                                SAP Managerial Positions\n                                                    Group-2 SAP Positions\n                                                     / Ajay Singh\n                                                                                                                                                                                                                                                                                  Government\n                                                                               8.05.M.f./OFCC                                                                                                                                                                                                         National\n                                                                                                                                                                 Page 22 of 25\n                                                                                                                  CHIHOME\n                                                                                                                                                                                                                                                                       titute for Smart\n\n               \n                \n                       S.no|  Post|  in\nExperience years|  No.\nof\nResource(s)s|  Proposed\nINR) in Lacs|  (CTC| \n   1|  SAP - Delivery Head|  15+|  1|  50 - 60|  | \n   2|  SAP - Project\nManager|  10+|  1|  45 - 50|  | \n   3|  SAP - Project|  6-8|  2|  25-30|  | \n   |  Coordinator|  |  |  |  | \n   |  Total|  |  4|  |  | \n  \n   S.no|  Post|  Experience\nyears|  in|  No.\nof\nResource(s)s|  Proposed\nINR) in Lacs|  (CTC| \n   1|  SAP - HCM|  3 - 5|  |  1|  12 - 16|  | \n   Consultant|  |  |  |  |  | \n   2|  SAP- EP Consultant|  3 - 5|  |  1|  12 - 16|  | \n   3|  SAP - FICO|  3 - 5|  |  1|  12 - 16|  | \n   |  Consultant|  |  |  |  |  | \n   4|  SAP - ABAP Consultant|  3 - 5|  |  1|  12 - 16|  | \n   5|  SAP - MM|  3 - 5|  |  1|  12 - 16|  | \n   Consultant| \n   6|  Sr. SAP - HCM|  6 - 8|  |  1|  20 - 24|  | \n   Consultant| \n  \n                \n             ",
+                "fields": {
+                    "scopeOfWork": [
+                        {
+                            "group": "Group-1",
+                            "serialnumber": "1",
+                            "post": "SAP - Delivery Head",
+                            "experienceYears": "15",
+                            "numberOfResources": "1"
+                        },
+                        {
+                            "group": "Group-1",
+                            "serialnumber": "2",
+                            "post": "SAP - Project Manager",
+                            "experienceYears": "10",
+                            "numberOfResources": "1"
+                        },
+                        {
+                            "group": "Group-1",
+                            "serialnumber": "3",
+                            "post": "SAP - Project Coordinator",
+                            "experienceYears": "6-8",
+                            "numberOfResources": "2"
+                        },
+                        {
+                            "group": "Group-2",
+                            "serialnumber": "1",
+                            "post": "SAP - HCM Consultant",
+                            "experienceYears": "3-5",
+                            "numberOfResources": "1"
+                        },
+                        {
+                            "group": "Group-2",
+                            "serialnumber": "2",
+                            "post": "SAP- EP Consultant",
+                            "experienceYears": "3-5",
+                            "numberOfResources": "1"
+                        },
+                        {
+                            "group": "Group-2",
+                            "serialnumber": "3",
+                            "post": "SAP - FICO Consultant",
+                            "experienceYears": "3-5",
+                            "numberOfResources": "1"
+                        },
+                        {
+                            "group": "Group-2",
+                            "serialnumber": "4",
+                            "post": "SAP - ABAP Consultant",
+                            "experienceYears": "3-5",
+                            "numberOfResources": "1"
+                        },
+                        {
+                            "group": "Group-2",
+                            "serialnumber": "5",
+                            "post": "SAP - MM Consultant",
+                            "experienceYears": "3-5",
+                            "numberOfResources": "1"
+                        },
+                        {
+                            "group": "Group-2",
+                            "serialnumber": "6",
+                            "post": "Sr. SAP - HCM Consultant",
+                            "experienceYears": "6-8",
+                            "numberOfResources": "1"
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 23,
+                "tables": [
+                    {
+                        "rowCount": 15,
+                        "columnCount": 8,
+                        "headerGroups": [
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null
+                        ],
+                        "rowGroups": [
+                            [
+                                "7",
+                                null,
+                                "Sr. SAP- EP Consultant",
+                                "6 - 8",
+                                null,
+                                "1",
+                                null,
+                                "20 - 24"
+                            ],
+                            [
+                                "8",
+                                null,
+                                "Sr. SAP - FICO Consultant",
+                                "6 - 8",
+                                null,
+                                "1",
+                                null,
+                                "20 - 24"
+                            ],
+                            [
+                                "9",
+                                null,
+                                "Sr. SAP - ABAP Consultant",
+                                "6 - 8",
+                                null,
+                                "1",
+                                null,
+                                "25 - 30"
+                            ],
+                            [
+                                "10",
+                                null,
+                                "Sr. SAP - BASIS Consultant",
+                                "6 - 8",
+                                null,
+                                "0",
+                                null,
+                                "20 - 24"
+                            ],
+                            [
+                                "11",
+                                null,
+                                "Sr. SAP - SD Consultant",
+                                "6 - 8",
+                                null,
+                                "0",
+                                null,
+                                "20 - 24"
+                            ],
+                            [
+                                "",
+                                null,
+                                null,
+                                "",
+                                null,
+                                "",
+                                null,
+                                ""
+                            ],
+                            [
+                                "12",
+                                null,
+                                "Sr. SAP - PS Consultant",
+                                "6 - 8",
+                                null,
+                                "0",
+                                null,
+                                "20 - 24"
+                            ],
+                            [
+                                "13",
+                                null,
+                                "Sr. SAP - MM Consultant",
+                                "6 - 8",
+                                null,
+                                "1",
+                                null,
+                                "20 - 24"
+                            ],
+                            [
+                                "14",
+                                null,
+                                "SAP -SD Team Lead",
+                                "8 - 10",
+                                null,
+                                "1",
+                                null,
+                                "35 - 40"
+                            ],
+                            [
+                                "15",
+                                null,
+                                "SAP - Team Lead (FICO)",
+                                "8 - 10",
+                                null,
+                                "2",
+                                null,
+                                "35 - 40"
+                            ],
+                            [
+                                "16",
+                                null,
+                                "SAP - Team Lead (HCM)",
+                                "8 - 10",
+                                null,
+                                "2",
+                                null,
+                                "35 - 40"
+                            ],
+                            [
+                                "17",
+                                null,
+                                "SAP - Team Lead (PS/MM)",
+                                "8 - 10",
+                                null,
+                                "1",
+                                null,
+                                "35 - 40"
+                            ],
+                            [
+                                "18",
+                                null,
+                                "SAP - Team Lead (EP)",
+                                "8 - 10",
+                                null,
+                                "2",
+                                null,
+                                "35 - 40"
+                            ],
+                            [
+                                "19",
+                                null,
+                                "SAP - Team Lead\n(ABAP)",
+                                "8 - 10",
+                                null,
+                                "1",
+                                null,
+                                "40 - 45"
+                            ],
+                            [
+                                "",
+                                null,
+                                "Total",
+                                "",
+                                null,
+                                "19",
+                                null,
+                                ""
+                            ]
+                        ],
+                        "matchingColumn": [],
+                        "matchingRow": []
+                    }
+                ],
+                "paragraphs": "                            Total No. of Resource(s): 4+19 = 23\nActual CTC of the new joiners shall be applicable as per the CTC for the respective year of recruitment as mentioned above.\nC. Apart from the above commercials, Optional Service communicated by DFCCIL through Work Order and is liable to pay the underneath:\n                                                       Ajay Singh\n                                                                                                                                                                                                                                                                                    mentNational Institute fo\n                                                                                                                                                              Page 23 of 25\n                                                                                                 TOFCC * (HB\n                                                                                                                                                                                                                                                                              News\n\n               \n                \n                       7|  Sr. SAP- EP Consultant|  6 - 8|  1|  20 - 24| \n   8|  Sr. SAP - FICO Consultant|  6 - 8|  1|  20 - 24| \n   9|  Sr. SAP - ABAP Consultant|  6 - 8|  1|  25 - 30| \n   10|  Sr. SAP - BASIS Consultant|  6 - 8|  0|  20 - 24| \n   11|  Sr. SAP - SD Consultant|  6 - 8|  0|  20 - 24| \n   |  |  |  | \n   12|  Sr. SAP - PS Consultant|  6 - 8|  0|  20 - 24| \n   13|  Sr. SAP - MM Consultant|  6 - 8|  1|  20 - 24| \n   14|  SAP -SD Team Lead|  8 - 10|  1|  35 - 40| \n   15|  SAP - Team Lead (FICO)|  8 - 10|  2|  35 - 40| \n   16|  SAP - Team Lead (HCM)|  8 - 10|  2|  35 - 40| \n   17|  SAP - Team Lead (PS/MM)|  8 - 10|  1|  35 - 40| \n   18|  SAP - Team Lead (EP)|  8 - 10|  2|  35 - 40| \n   19|  SAP - Team Lead\n(ABAP)|  8 - 10|  1|  40 - 45| \n   |  Total|  |  19|  | \n  \n                \n             ",
+                "fields": {
+                    "scopeOfWork": [
+                        {
+                            "group": "SAP Consultants",
+                            "serialnumber": 7,
+                            "post": "Sr. SAP- EP Consultant",
+                            "experienceYears": 6,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "SAP Consultants",
+                            "serialnumber": 8,
+                            "post": "Sr. SAP - FICO Consultant",
+                            "experienceYears": 6,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "SAP Consultants",
+                            "serialnumber": 9,
+                            "post": "Sr. SAP - ABAP Consultant",
+                            "experienceYears": 6,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "SAP Consultants",
+                            "serialnumber": 10,
+                            "post": "Sr. SAP - BASIS Consultant",
+                            "experienceYears": 6,
+                            "numberOfResources": 0
+                        },
+                        {
+                            "group": "SAP Consultants",
+                            "serialnumber": 11,
+                            "post": "Sr. SAP - SD Consultant",
+                            "experienceYears": 6,
+                            "numberOfResources": 0
+                        },
+                        {
+                            "group": "SAP Consultants",
+                            "serialnumber": 12,
+                            "post": "Sr. SAP - PS Consultant",
+                            "experienceYears": 6,
+                            "numberOfResources": 0
+                        },
+                        {
+                            "group": "SAP Consultants",
+                            "serialnumber": 13,
+                            "post": "Sr. SAP - MM Consultant",
+                            "experienceYears": 6,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "SAP Team Leads",
+                            "serialnumber": 14,
+                            "post": "SAP -SD Team Lead",
+                            "experienceYears": 8,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "SAP Team Leads",
+                            "serialnumber": 15,
+                            "post": "SAP - Team Lead (FICO)",
+                            "experienceYears": 8,
+                            "numberOfResources": 2
+                        },
+                        {
+                            "group": "SAP Team Leads",
+                            "serialnumber": 16,
+                            "post": "SAP - Team Lead (HCM)",
+                            "experienceYears": 8,
+                            "numberOfResources": 2
+                        },
+                        {
+                            "group": "SAP Team Leads",
+                            "serialnumber": 17,
+                            "post": "SAP - Team Lead (PS/MM)",
+                            "experienceYears": 8,
+                            "numberOfResources": 1
+                        },
+                        {
+                            "group": "SAP Team Leads",
+                            "serialnumber": 18,
+                            "post": "SAP - Team Lead (EP)",
+                            "experienceYears": 8,
+                            "numberOfResources": 2
+                        },
+                        {
+                            "group": "SAP Team Leads",
+                            "serialnumber": 19,
+                            "post": "SAP - Team Lead (ABAP)",
+                            "experienceYears": 8,
+                            "numberOfResources": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 24,
+                "tables": [],
+                "paragraphs": "1) Background Verification Fee @ 5000 INR per vacancy incl. GST (one time)\n2) Reimbursement of Mobile and internet charges @ up to 2000 INR per month incl. GST\n3) Group Medi-claim & Accident Insurance @ 15000 INR per annum per Resource(s) incl. GST.\n4) One-time Laptop/Desktop charges @ up to 85000 INR per Resource(s) incl. GST. All such assets procured shall be the property of DFCCIL.\n5) Travel management: The cost of any outstation travel, boarding & lodging and incidental taken up by the Resource(s)s in relation to the assignments of DFCCIL during their tenure, is expected to be arranged and paid by DFCCIL. In case of travel by these SAP Resource(s)s on duty for DFCCIL work, TA/DA/Lodging etc will be reimbursed to them as admissible to DGM (E5 of DFCCIL) for Delivery Head, Project Manager & Team Lead. For other resources TA/DA/Lodging etc will be reimbursed to them as admissible to Manager (E4 of DFCCIL).\nThe Resource(s) provided by NISG are expected to be on the NISG payroll and work exclusively for DFCCIL on premises. The candidates would be recruited for a fixed term of Three (3) years and may be further extended for a period based on mutual agreement with DFCCIL.\n                                                                                                                                                                                                                                                                 Swerte for Smart G\n                                                                          Ajay Singh\n                                                                                                                                                                                                                                                                                                                   ernment\n                                                                                                                                                                                                                                                                           National\n                                                                                                                 OFCC # HUICME\n                                                                                                                                                                          0\n                                                                                                                                                                                                                                                             Smart Government 10\n                                                                                                                                                               Page 24 of 25\n\n               \n                \n                    false\n                \n             ",
+                "fields": {
+                    "scopeOfWork": [
+                        {
+                            "group": "Smart Government 10",
+                            "serialnumber": "1",
+                            "post": "Resource(s) for DFCCIL",
+                            "experienceYears": "3",
+                            "numberOfResources": "number of resources as per the requirement"
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 25,
+                "tables": [
+                    {
+                        "rowCount": 8,
+                        "columnCount": 2,
+                        "headerGroups": [
+                            "",
+                            "Duration"
+                        ],
+                        "rowGroups": [
+                            [
+                                null,
+                                null
+                            ],
+                            [
+                                "Contract Signing",
+                                "TO"
+                            ],
+                            [
+                                "Finalise Job description shared by DFCCIL for priority 1 roles",
+                                "TO + 1 week"
+                            ],
+                            [
+                                "Job posting by NISG on naukri.com, Linkedln and social media",
+                                "TO + 2 weeks"
+                            ],
+                            [
+                                "First shortlist",
+                                "TO + 4 weeks"
+                            ],
+                            [
+                                "HR interview by NISG",
+                                "TO + 5 weeks"
+                            ],
+                            [
+                                "Technical interview by NISG",
+                                "TO + 6 weeks"
+                            ],
+                            [
+                                "Issuance of offer letters to selected candidates",
+                                "TO + 8 weeks"
+                            ]
+                        ],
+                        "matchingColumn": [],
+                        "matchingRow": []
+                    }
+                ],
+                "paragraphs": "                                                                                                                                ANNEXURE III: TIMELINES\nThis agreement is for a period of Three (03) years which can be further extended, or in the alternative DFCCIL can issue a work order based on the terms contained in this Contract for a period of three years, to initiate search for the relevant candidates as per the job descriptions shared by DFCCIL.\nRecruitment and deployment of Resource(s) will require certain actions taken by the DFCCIL such as nomination of panellists for interviews, any approval for issue of offers, etc. Any delay in these activities will have direct impact on the schedule.\n                          The timelines are mentioned below :-\nThe duration of the contract between NISG and the DFCCIL will be for three (3) years, which can be extended as per project requirement on existing terms & conditions for another three years.\n                                                1 Ajay Sinsh\n                                                                                          *\n                                                                             FROH/NEW DELHI\n                                                                                                                                                                                                                                                              for ituta Smart\n                                                                                                                                               -End of Document-\n                                                                                                                                                               Page 25 of 25\n\n               \n                \n                       |  Duration| \n   Contract Signing|  TO| \n   Finalise Job description shared by DFCCIL for priority 1 roles|  TO + 1 week| \n   Job posting by NISG on naukri.com, Linkedln and social media|  TO + 2 weeks| \n   First shortlist|  TO + 4 weeks| \n   HR interview by NISG|  TO + 5 weeks| \n   Technical interview by NISG|  TO + 6 weeks| \n   Issuance of offer letters to selected candidates|  TO + 8 weeks| \n  \n                \n             ",
+                "fields": {
+                    "scopeOfWork": []
+                }
+            }
+        ]
+    }
+}
